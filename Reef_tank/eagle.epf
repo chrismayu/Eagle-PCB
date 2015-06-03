@@ -25,10 +25,12 @@ UsedLibrary="/Applications/EAGLE-7.1.0/Sparkfun/SparkFun-RF.lbr"
 UsedLibrary="/Applications/EAGLE-7.1.0/Sparkfun/SparkFun-Resistors.lbr"
 UsedLibrary="/Applications/EAGLE-7.1.0/Sparkfun/SparkFun-Retired.lbr"
 UsedLibrary="/Applications/EAGLE-7.1.0/Sparkfun/SparkFun-Sensors.lbr"
+UsedLibrary="/Applications/EAGLE-7.1.0/MAXIM/Maxim_By_element14_Batch_1.lbr"
+UsedLibrary="/Applications/EAGLE-7.1.0/Ava.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="60 22 1275 562"
+Loc="139 142 738 541"
 State=2
 Number=0
 
