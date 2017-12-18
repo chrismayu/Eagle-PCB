@@ -8,20 +8,20 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="1" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="1" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -30,8 +30,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -39,17 +39,17 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
-<layer number="57" name="tCAD" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
+<layer number="57" name="tCAD" color="7" fill="1" visible="no" active="no"/>
 <layer number="90" name="Modules" color="5" fill="1" visible="yes" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
@@ -2755,33 +2755,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="-2.54" y="3.048" size="1.27" layer="25" ratio="10">&gt;NAME</text>
 <text x="-2.54" y="-3.302" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
 </package>
-<package name="UMAX8">
-<description>&lt;b&gt;micro MAX Package&lt;/b&gt;</description>
-<wire x1="-1.4" y1="1.4" x2="1.4" y2="1.4" width="0.2032" layer="21"/>
-<wire x1="1.4" y1="1.4" x2="1.4" y2="-1.4" width="0.2032" layer="21"/>
-<wire x1="1.4" y1="-1.4" x2="-1.4" y2="-1.4" width="0.2032" layer="21"/>
-<wire x1="-1.4" y1="-1.4" x2="-1.4" y2="1.4" width="0.2032" layer="21"/>
-<wire x1="-0.7" y1="-1.1" x2="-0.7" y2="-0.4" width="0.2032" layer="21" curve="-180"/>
-<wire x1="-0.7" y1="-0.4" x2="-0.7" y2="-1.1" width="0.2032" layer="21"/>
-<smd name="1" x="-0.975" y="-2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="2" x="-0.325" y="-2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="3" x="0.325" y="-2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="4" x="0.975" y="-2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="5" x="0.975" y="2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="6" x="0.325" y="2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="7" x="-0.325" y="2.175" dx="0.45" dy="1.2" layer="1"/>
-<smd name="8" x="-0.975" y="2.175" dx="0.45" dy="1.2" layer="1"/>
-<text x="-1.636" y="-2.286" size="1.27" layer="25" rot="R90">&gt;NAME</text>
-<text x="2.906" y="-2.286" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
-<rectangle x1="-1.1528" y1="-2.4036" x2="-0.7972" y2="-1.4384" layer="51"/>
-<rectangle x1="-0.5028" y1="-2.4036" x2="-0.1472" y2="-1.4384" layer="51"/>
-<rectangle x1="0.1472" y1="-2.4036" x2="0.5028" y2="-1.4384" layer="51"/>
-<rectangle x1="0.7972" y1="-2.4036" x2="1.1528" y2="-1.4384" layer="51"/>
-<rectangle x1="0.7972" y1="1.4384" x2="1.1528" y2="2.4036" layer="51"/>
-<rectangle x1="0.1472" y1="1.4384" x2="0.5028" y2="2.4036" layer="51"/>
-<rectangle x1="-0.5028" y1="1.4384" x2="-0.1472" y2="2.4036" layer="51"/>
-<rectangle x1="-1.1528" y1="1.4384" x2="-0.7972" y2="2.4036" layer="51"/>
-</package>
 </packages>
 <symbols>
 <symbol name="DS2482-100">
@@ -2805,10 +2778,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pin name="VDD" x="0" y="7.62" visible="pad" length="middle" direction="pwr" rot="R270"/>
 <pin name="GND" x="0" y="-7.62" visible="pad" length="middle" direction="pwr" rot="R90"/>
 </symbol>
-<symbol name="1W">
-<text x="-8.89" y="1.905" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<pin name="1W" x="-5.08" y="0" visible="pad" length="middle" direction="pwr"/>
-</symbol>
 <symbol name="IC">
 <wire x1="-5.08" y1="2.54" x2="5.08" y2="2.54" width="0.254" layer="94"/>
 <wire x1="5.08" y1="2.54" x2="5.08" y2="-2.54" width="0.254" layer="94"/>
@@ -2817,6 +2786,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="5.715" y="0.635" size="1.778" layer="95">&gt;NAME</text>
 <text x="5.715" y="-1.905" size="1.778" layer="96">&gt;VALUE</text>
 <text x="-2.54" y="-1.905" size="3.81" layer="94" ratio="15">IC</text>
+</symbol>
+<symbol name="1W">
+<text x="-8.89" y="1.905" size="1.778" layer="95" font="vector">&gt;NAME</text>
+<pin name="1W" x="-5.08" y="0" visible="pad" length="middle" direction="pwr"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -2853,20 +2826,20 @@ Improved by Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 </device>
 </devices>
 </deviceset>
-<deviceset name="DS18B20" prefix="IC">
-<description>&lt;h2&gt;Programmable Resolution Digital Thermometer&lt;/h2&gt;
-&lt;p&gt;This chip provides a onewire thermosensor with approx. 0.5°C accuracy. A programmable over/undertemperure alarm is available. The precision can be set from 9..12 bits.&lt;/p&gt;
+<deviceset name="DS18S20" prefix="IC">
+<description>&lt;h2&gt;High Precision Digital Thermometer&lt;/h2&gt;
+&lt;p&gt;This chip provides a onewire thermosensor with approx. 0.5°C accuracy.A programmable over/undertemperure alarm is available.&lt;/p&gt;
 &lt;h3&gt;Notes:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Vdd must be applied for accurate measurements at low temperatures, as the parasite power circuit otherwise heats the sensor.&lt;/li&gt;
 &lt;li&gt;If parasite power is used, Vdd has to be connected to GND.&lt;/li&gt;
-&lt;li&gt;The DS1822 is a low-cost thermometer chip, the DS18S20 is similar to the DS18B20, but with 9 Bit precision only.&lt;/li&gt;
+&lt;li&gt;The DS1822 is a low-cost thermometer chip, the DS18B20 is similar to the DS18S20, but with 9..12 Bit programmable precision.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Author:&lt;/h3&gt;
 Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <gates>
-<gate name="_1W" symbol="1W" x="-5.08" y="0" addlevel="request"/>
 <gate name="A" symbol="IC" x="0" y="0" addlevel="always"/>
+<gate name="_1W" symbol="1W" x="-5.08" y="0" addlevel="request"/>
 <gate name="P" symbol="VDD-GND" x="0" y="0" addlevel="request"/>
 </gates>
 <devices>
@@ -2885,16 +2858,6 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <connect gate="P" pin="GND" pad="5"/>
 <connect gate="P" pin="VDD" pad="3"/>
 <connect gate="_1W" pin="1W" pad="4"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="U" package="UMAX8">
-<connects>
-<connect gate="P" pin="GND" pad="4"/>
-<connect gate="P" pin="VDD" pad="8"/>
-<connect gate="_1W" pin="1W" pad="1"/>
 </connects>
 <technologies>
 <technology name=""/>
@@ -2921,7 +2884,6 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <part name="A1" library="SparkFun-Retired" deviceset="SOLDERJUMPER_2WAY" device="S"/>
 <part name="SUPPLY2" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
 <part name="IC2" library="1wire" deviceset="DS2482-100" device="S"/>
-<part name="IC3" library="1wire" deviceset="DS18B20" device=""/>
 <part name="JP2" library="SparkFun-Connectors" deviceset="M04" device="PTH"/>
 <part name="GND1" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="IO-1" library="SparkFun-Connectors" deviceset="M03" device="PTH"/>
@@ -2932,8 +2894,7 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <part name="GND5" library="SparkFun-Aesthetics" deviceset="GND" device=""/>
 <part name="5VDC1" library="SparkFun-Connectors" deviceset="M02" device="PTH" value="+"/>
 <part name="IO-2" library="SparkFun-Connectors" deviceset="M03" device="PTH"/>
-<part name="A2" library="SparkFun-Retired" deviceset="SOLDERJUMPER_2WAY" device="S"/>
-<part name="SUPPLY3" library="SparkFun-Aesthetics" deviceset="5V" device=""/>
+<part name="IC1" library="1wire" deviceset="DS18S20" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2947,7 +2908,6 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <instance part="A1" gate="G$1" x="78.74" y="147.32" rot="R180"/>
 <instance part="SUPPLY2" gate="G$1" x="78.74" y="170.18"/>
 <instance part="IC2" gate="G$1" x="109.22" y="172.72"/>
-<instance part="IC3" gate="A" x="93.98" y="200.66"/>
 <instance part="JP2" gate="G$1" x="45.72" y="175.26"/>
 <instance part="GND1" gate="1" x="55.88" y="154.94"/>
 <instance part="IO-1" gate="G$1" x="170.18" y="167.64" rot="R180"/>
@@ -2958,8 +2918,7 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <instance part="GND5" gate="1" x="170.18" y="182.88" rot="R90"/>
 <instance part="5VDC1" gate="G$1" x="187.96" y="198.12" rot="R180"/>
 <instance part="IO-2" gate="G$1" x="170.18" y="152.4" rot="R180"/>
-<instance part="A2" gate="G$1" x="58.42" y="200.66" rot="R270"/>
-<instance part="SUPPLY3" gate="G$1" x="68.58" y="200.66"/>
+<instance part="IC1" gate="A" x="99.06" y="205.74"/>
 </instances>
 <busses>
 </busses>
@@ -2989,11 +2948,6 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 </net>
 <net name="5V" class="0">
 <segment>
-<pinref part="C1" gate="G$1" pin="1"/>
-<pinref part="SUPPLY1" gate="G$1" pin="5V"/>
-<wire x1="58.42" y1="220.98" x2="58.42" y2="228.6" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="SUPPLY2" gate="G$1" pin="5V"/>
 <wire x1="78.74" y1="170.18" x2="63.5" y2="170.18" width="0.1524" layer="91"/>
 <wire x1="63.5" y1="170.18" x2="63.5" y2="152.4" width="0.1524" layer="91"/>
@@ -3013,9 +2967,9 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <wire x1="137.16" y1="198.12" x2="144.78" y2="198.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="A2" gate="G$1" pin="1"/>
-<wire x1="63.5" y1="200.66" x2="68.58" y2="200.66" width="0.1524" layer="91"/>
-<pinref part="SUPPLY3" gate="G$1" pin="5V"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<pinref part="SUPPLY1" gate="G$1" pin="5V"/>
+<wire x1="58.42" y1="220.98" x2="58.42" y2="228.6" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -3099,30 +3053,23 @@ Jan Kandziora &amp;lt;jjj@gmx.de&amp;gt;</description>
 <wire x1="73.66" y1="180.34" x2="50.8" y2="180.34" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="1W" class="0">
-<segment>
-<wire x1="93.98" y1="200.66" x2="127" y2="200.66" width="0.1524" layer="91"/>
-<pinref part="IO-1" gate="G$1" pin="1"/>
-<pinref part="IC2" gate="G$1" pin="1W"/>
-<wire x1="162.56" y1="170.18" x2="127" y2="170.18" width="0.1524" layer="91"/>
-<pinref part="IO-2" gate="G$1" pin="1"/>
-<wire x1="127" y1="170.18" x2="121.92" y2="170.18" width="0.1524" layer="91"/>
-<wire x1="162.56" y1="154.94" x2="121.92" y2="154.94" width="0.1524" layer="91"/>
-<wire x1="121.92" y1="154.94" x2="121.92" y2="170.18" width="0.1524" layer="91"/>
-<wire x1="127" y1="200.66" x2="127" y2="170.18" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$1" class="0">
+<net name="VDD" class="0">
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
-<pinref part="A2" gate="G$1" pin="2"/>
 <wire x1="58.42" y1="213.36" x2="58.42" y2="205.74" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="VDD" class="0">
+<net name="1W" class="0">
 <segment>
-<pinref part="A2" gate="G$1" pin="3"/>
-<wire x1="53.34" y1="200.66" x2="45.72" y2="200.66" width="0.1524" layer="91"/>
+<wire x1="127" y1="205.74" x2="127" y2="170.18" width="0.1524" layer="91"/>
+<pinref part="IC2" gate="G$1" pin="1W"/>
+<wire x1="127" y1="170.18" x2="121.92" y2="170.18" width="0.1524" layer="91"/>
+<pinref part="IO-1" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="170.18" x2="127" y2="170.18" width="0.1524" layer="91"/>
+<wire x1="99.06" y1="205.74" x2="127" y2="205.74" width="0.1524" layer="91"/>
+<pinref part="IO-2" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="154.94" x2="127" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="127" y1="154.94" x2="127" y2="170.18" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
