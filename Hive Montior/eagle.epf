@@ -6,6 +6,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/Users/chrismailloux/Downloads/eagle-lib-master/TP4056.lbr"
 
 [Win_1]
 Type="Control Panel"
