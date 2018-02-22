@@ -139,8 +139,8 @@
 <text x="46.863" y="21.717" size="0.8128" layer="25" rot="R180">VCC</text>
 <text x="46.863" y="19.177" size="0.8128" layer="25" rot="R180">GND</text>
 <rectangle x1="0" y1="0" x2="75.87" y2="39.36" layer="222"/>
-<text x="16.764" y="16.764" size="1.4224" layer="26" rot="MR0">Reefsense.com</text>
-<text x="40.132" y="1.016" size="1.27" layer="25">Input Interface</text>
+<text x="44.704" y="28.956" size="1.4224" layer="26" rot="MR0">Reefsense.com</text>
+<text x="31.496" y="29.972" size="1.27" layer="25">Input Interface</text>
 <text x="42.164" y="14.224" size="1.27" layer="25">Reefsense.com</text>
 <text x="38.1" y="22.86" size="1.778" layer="25">+</text>
 <text x="33.02" y="22.352" size="1.778" layer="25">-</text>
@@ -148,11 +148,6 @@
 <hole x="55.372" y="29.972" drill="3.2"/>
 <hole x="55.372" y="2.54" drill="3.2"/>
 <hole x="2.54" y="2.54" drill="3.2"/>
-<text x="49.784" y="24.384" size="1.778" layer="1">Rev A</text>
-<text x="49.784" y="22.352" size="1.778" layer="1">Rev A</text>
-<text x="49.784" y="18.288" size="1.778" layer="1">Rev A</text>
-<text x="49.784" y="20.828" size="1.778" layer="1">Rev A</text>
-<text x="49.784" y="20.828" size="1.778" layer="1">Rev A</text>
 <text x="55.372" y="25.4" size="1.27" layer="25" rot="R270">Rev A</text>
 </plain>
 <libraries>

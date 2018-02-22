@@ -148,7 +148,7 @@
 <hole x="55.372" y="31.496" drill="3.2"/>
 <hole x="55.372" y="2.54" drill="3.2"/>
 <hole x="2.54" y="2.54" drill="3.2"/>
-<text x="55.372" y="25.4" size="1.27" layer="25" rot="R270">Rev A</text>
+<text x="55.372" y="25.4" size="1.27" layer="25" rot="R270">Rev B</text>
 <rectangle x1="47.244" y1="18.796" x2="54.864" y2="25.908" layer="25"/>
 <text x="51.943" y="27.305" size="0.8128" layer="25" rot="R180">ID#</text>
 <text x="18.923" y="32.893" size="0.8128" layer="25" rot="R180">2014 Chris Mailloux  </text>

@@ -140,8 +140,8 @@
 <text x="46.863" y="19.177" size="0.8128" layer="25" rot="R180">GND</text>
 <rectangle x1="0" y1="0" x2="75.87" y2="39.36" layer="222"/>
 <text x="16.764" y="16.764" size="1.4224" layer="26" rot="MR0">Reefsense.com</text>
-<text x="41.656" y="1.016" size="1.27" layer="25">Input Interface</text>
-<text x="43.18" y="15.24" size="1.27" layer="25">Reefsense.com</text>
+<text x="40.132" y="1.016" size="1.27" layer="25">Input Interface</text>
+<text x="42.164" y="14.224" size="1.27" layer="25">Reefsense.com</text>
 <text x="38.1" y="22.86" size="1.778" layer="25">+</text>
 <text x="33.02" y="22.352" size="1.778" layer="25">-</text>
 <hole x="2.54" y="29.972" drill="3.2"/>

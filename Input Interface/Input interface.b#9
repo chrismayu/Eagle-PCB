@@ -139,8 +139,7 @@
 <text x="48.387" y="22.733" size="1.27" layer="25" rot="R180">VCC</text>
 <text x="48.387" y="20.193" size="1.27" layer="25" rot="R180">GND</text>
 <rectangle x1="0" y1="0" x2="75.87" y2="39.36" layer="222"/>
-<text x="39.116" y="22.352" size="1.778" layer="26" rot="MR0">Relay Interface</text>
-<text x="39.624" y="19.304" size="1.4224" layer="26" rot="MR0">Reefsense.com</text>
+<text x="16.764" y="16.764" size="1.4224" layer="26" rot="MR0">Reefsense.com</text>
 <text x="41.656" y="1.016" size="1.27" layer="25">Input Interface</text>
 <text x="43.18" y="15.24" size="1.27" layer="25">Reefsense.com</text>
 <text x="38.1" y="22.86" size="1.778" layer="25">+</text>

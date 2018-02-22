@@ -148,6 +148,12 @@
 <hole x="55.372" y="29.972" drill="3.2"/>
 <hole x="55.372" y="2.54" drill="3.2"/>
 <hole x="2.54" y="2.54" drill="3.2"/>
+<text x="49.784" y="24.384" size="1.778" layer="1">Rev A</text>
+<text x="49.784" y="22.352" size="1.778" layer="1">Rev A</text>
+<text x="49.784" y="18.288" size="1.778" layer="1">Rev A</text>
+<text x="49.784" y="20.828" size="1.778" layer="1">Rev A</text>
+<text x="49.784" y="20.828" size="1.778" layer="1">Rev A</text>
+<text x="54.864" y="25.4" size="1.778" layer="25" rot="R270">Rev A</text>
 </plain>
 <libraries>
 <library name="SparkFun-Capacitors">
