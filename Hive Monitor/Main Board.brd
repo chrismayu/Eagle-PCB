@@ -193,6 +193,8 @@
 <text x="55.245" y="58.801" size="1.4224" layer="25">3</text>
 <text x="57.785" y="58.801" size="1.4224" layer="25">4</text>
 <text x="47.117" y="58.674" size="1.016" layer="25">ON</text>
+<dimension x1="-3.81" y1="0" x2="-3.81" y2="60.96" x3="-31.75" y3="30.48" textsize="1.778" layer="1"/>
+<dimension x1="-3.81" y1="60.63" x2="109.22" y2="60.96" x3="52.68275" y3="68.414934375" textsize="1.778" layer="1"/>
 </plain>
 <libraries>
 <library name="SparkFun-Boards">

@@ -3056,15 +3056,15 @@ Note, that not all DRC settings must be set by the manufacturer. Several can be 
 <contactref element="C8" pad="1"/>
 <contactref element="R34" pad="1"/>
 <contactref element="GND_" pad="TP"/>
-<via x="51.054" y="42.291" extent="1-16" drill="0.2"/>
-<via x="34.544" y="47.371" extent="1-16" drill="0.2"/>
-<via x="38.354" y="44.45" extent="1-16" drill="0.2"/>
-<via x="39.37" y="41.275" extent="1-16" drill="0.2"/>
-<via x="40.259" y="45.085" extent="1-16" drill="0.2"/>
-<via x="31.877" y="57.277" extent="1-16" drill="0.2"/>
-<via x="26.289" y="38.989" extent="1-16" drill="0.2"/>
-<via x="21.844" y="35.814" extent="1-16" drill="0.2"/>
-<via x="14.478" y="36.068" extent="1-16" drill="0.2"/>
+<via x="51.054" y="42.291" extent="1-16" drill="0.25"/>
+<via x="34.544" y="47.371" extent="1-16" drill="0.25"/>
+<via x="38.354" y="44.45" extent="1-16" drill="0.25"/>
+<via x="39.37" y="41.275" extent="1-16" drill="0.25"/>
+<via x="40.259" y="45.085" extent="1-16" drill="0.25"/>
+<via x="31.877" y="57.277" extent="1-16" drill="0.25"/>
+<via x="26.289" y="38.989" extent="1-16" drill="0.25"/>
+<via x="21.844" y="35.814" extent="1-16" drill="0.25"/>
+<via x="14.478" y="36.068" extent="1-16" drill="0.25"/>
 </signal>
 <signal name="N$8">
 <contactref element="JP4" pad="1"/>
